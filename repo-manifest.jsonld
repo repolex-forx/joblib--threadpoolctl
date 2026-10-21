@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/joblib/threadpoolctl/commit/ca1677b5259b1e20f01dc8f5378717889b1e893a",
       "git:hexsha": "ca1677b5259b1e20f01dc8f5378717889b1e893a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T20:03:25.641851+00:00"
     },
     {
       "@id": "https://repolex.ai/r/joblib/threadpoolctl/commit/f1b5e47928d865275b71e73c1897115565155247",
