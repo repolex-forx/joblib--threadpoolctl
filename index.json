@@ -1,0 +1,11 @@
+{
+  "org": "joblib",
+  "repo": "threadpoolctl",
+  "versions": [
+    {
+      "commit": "ca1677b5259b1e20f01dc8f5378717889b1e893a",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:03:25.881358+00:00"
+    }
+  ]
+}
